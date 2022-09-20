@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.AssemblyInfo.cs
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Lesson\dz_21\bin\Debug\net6.0\dz_21.exe
+C:\Users\1\Desktop\Lesson\dz_21\bin\Debug\net6.0\dz_21.deps.json
+C:\Users\1\Desktop\Lesson\dz_21\bin\Debug\net6.0\dz_21.runtimeconfig.json
+C:\Users\1\Desktop\Lesson\dz_21\bin\Debug\net6.0\dz_21.dll
+C:\Users\1\Desktop\Lesson\dz_21\bin\Debug\net6.0\dz_21.pdb
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.dll
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\refint\dz_21.dll
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.pdb
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\dz_21.genruntimeconfig.cache
+C:\Users\1\Desktop\Lesson\dz_21\obj\Debug\net6.0\ref\dz_21.dll
